@@ -1,11 +1,11 @@
 <?php
 
-namespace TechTailor\BinanceApi;
+namespace ValentinCeaprazaru\BinanceApi;
 
 use Exception;
 use Illuminate\Http\Client\ConnectionException;
 use Illuminate\Support\Facades\Http;
-use TechTailor\BinanceApi\Traits\HandlesResponseErrors;
+use ValentinCeaprazaru\BinanceApi\Traits\HandlesResponseErrors;
 
 class BinanceAPI
 {

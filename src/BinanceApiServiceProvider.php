@@ -1,6 +1,6 @@
 <?php
 
-namespace TechTailor\BinanceApi;
+namespace ValentinCeaprazaru\BinanceApi;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;

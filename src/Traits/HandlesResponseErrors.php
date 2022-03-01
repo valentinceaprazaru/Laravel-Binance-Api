@@ -1,6 +1,6 @@
 <?php
 
-namespace TechTailor\BinanceApi\Traits;
+namespace ValentinCeaprazaru\BinanceApi\Traits;
 
 trait HandlesResponseErrors
 {
